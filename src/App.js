@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <p>My awesome GitHub Page running using React</p>
+          React is very easy to learn!
         </p>
         <a
           className="App-link"
